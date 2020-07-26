@@ -1,5 +1,7 @@
 package main
 
+//package main
+
 import "fmt"
 
 func BinarySearch(n int, arr []int) bool {
